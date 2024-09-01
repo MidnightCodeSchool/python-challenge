@@ -5,7 +5,7 @@ Python challenge for beginner
 - `make` to run test on all challenges
 ## p00_variable_type.py
 ### EN
-- Create a Python file named p00.py
+- Create a Python file named p00_variable_type.py
 - Create variables and assign values
 - - `an_int` assign an integer value
 - - `a_float` assign a float value
@@ -17,7 +17,7 @@ Python challenge for beginner
 - - `a_set` assign a set value of 3 elements
 - - `a_none` assign a None value
 ### TH
-- สร้างไฟล์ Python ชื่อ `p00.py`
+- สร้างไฟล์ Python ชื่อ `p00_variable_type.py`
 - สร้างตัวแปรและกำหนดค่าให้กับตัวแปร
   - `an_int` กำหนดค่าเป็นจำนวนเต็ม
   - `a_float` กำหนดค่าเป็นจำนวนทศนิยม
