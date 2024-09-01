@@ -59,3 +59,12 @@ To get the latest version run `git pull`
 - Create a function named `remainder` that takes 2 arguments and return the remainder of the division of the arguments
 - Create a function named `power` that takes 2 arguments and return the result of the first argument raised to the power of the second argument
 - Create a function named `round_divide` that takes 2 arguments and return the result of the first argument divided by the second argument and rounded to the nearest integer
+## p003_if_elif_else.py - if, elif, else
+### EN
+- Create a Python file named `p003_if_elif_else.py`
+- Create a function named `rock_paper_scissors` that takes 2 arguments and return the result of the game
+- - The first argument is the choice of player 1 and the second argument is the choice of player 2
+- - The function should return the result of the game, either "player_1_wins", "player_2_wins", or "draw"
+- - Raise an exception if the choice is not valid
+- - The choices are "rock", "paper", and "scissors"
+
