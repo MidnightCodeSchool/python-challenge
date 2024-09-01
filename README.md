@@ -49,3 +49,13 @@ To get the latest version run `git pull`
 - - `h` assign the remainder of `a` divided by `b`
 - - `i` assign the result of `a` raised to the power of `b`
 - - `j` assign the result of `a` divided by `b` and rounded to the nearest integer
+## p002_function.py - Function
+### EN
+- Create a Python file named `p002_function.py`
+- Create a function named `add` that takes 2 arguments and return the sum of the arguments
+- Create a function named `subtract` that takes 2 arguments and return the difference of the arguments
+- Create a function named `multiply` that takes 2 arguments and return the product of the arguments
+- Create a function named `divide` that takes 2 arguments and return the division of the arguments
+- Create a function named `remainder` that takes 2 arguments and return the remainder of the division of the arguments
+- Create a function named `power` that takes 2 arguments and return the result of the first argument raised to the power of the second argument
+- Create a function named `round_divide` that takes 2 arguments and return the result of the first argument divided by the second argument and rounded to the nearest integer
