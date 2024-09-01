@@ -1,13 +1,15 @@
 # python-challenge
 Python challenge for beginner
 # Usage
-- open this repository in CODESPACE [![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-1f425f?style=for-the-badge&logo=github)](https://codespaces.new/MidnightCodeSchool/python-challenge?quickstart=1)
+- open this repository in CODESPACE by clicking the button below  
+👇👇👇  
+[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-1f425f?style=for-the-badge&logo=github)](https://codespaces.new/MidnightCodeSchool/python-challenge?quickstart=1)
 - `make` to run test on all challenges
 ## Updating
 To get the latest version run `git pull`
-## p00_variable_type.py
+## p000_variable_type.py - Variable and Types
 ### EN
-- Create a Python file named p00_variable_type.py
+- Create a Python file named `p000_variable_type.py`
 - Create variables and assign values
 - - `an_int` assign an integer value
 - - `a_float` assign a float value
@@ -19,7 +21,7 @@ To get the latest version run `git pull`
 - - `a_set` assign a set value of 3 elements
 - - `a_none` assign a None value
 ### TH
-- สร้างไฟล์ Python ชื่อ `p00_variable_type.py`
+- สร้างไฟล์ Python ชื่อ `p000_variable_type.py`
 - สร้างตัวแปรและกำหนดค่าให้กับตัวแปร
   - `an_int` กำหนดค่าเป็นจำนวนเต็ม
   - `a_float` กำหนดค่าเป็นจำนวนทศนิยม
