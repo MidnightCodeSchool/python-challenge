@@ -1,13 +1,11 @@
-import pytest
-
-
-def test_import():
+def test_file_exists():
     global p000_variable_type
     try:
         import p000_variable_type
-    except ModuleNotFoundError:
+    except ModuleNotFoundError as e:
+        fname = str(e).split(" ")[-1]
         raise FileNotFoundError(
-            "p00_variable_type.py not found. Are you naming the file correctly?"
+            f"{fname} not found. Are you naming the file correctly?"
         )
 
 
