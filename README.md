@@ -3,6 +3,8 @@ Python challenge for beginner
 # Usage
 - open this repository in CODESPACE [![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-1f425f?style=for-the-badge&logo=github)](https://codespaces.new/MidnightCodeSchool/python-challenge?quickstart=1)
 - `make` to run test on all challenges
+## Updating
+To get the latest version run `git pull`
 ## p00_variable_type.py
 ### EN
 - Create a Python file named p00_variable_type.py
