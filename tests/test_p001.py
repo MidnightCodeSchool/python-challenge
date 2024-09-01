@@ -1,4 +1,4 @@
-def test_import():
+def test_file_exists():
     global p001_variable_operation
     try:
         import p001_variable_operation
