@@ -13,7 +13,7 @@ To get the latest version run `git pull`
 - - `a_float` assign a float value
 - - `a_string` assign a string value
 - - `a_bool` assign a boolean value
-- - `a_list` assign a list value assign 3 elements of tyoe int, float, string
+- - `a_list` assign a list value assign 3 elements of type int, float, string
 - - `a_dict` assign a dictionary with 3 key-value pairs
 - - `a_tuple` assign a tuple value of 3 elements
 - - `a_set` assign a set value of 3 elements
