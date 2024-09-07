@@ -1,7 +1,7 @@
 C ?=000
 
 test%:
-	echo $*
+	@echo testing challenge p$*
 	pytest -v tests/test_p$(*).py
 
 # Test all challenges
