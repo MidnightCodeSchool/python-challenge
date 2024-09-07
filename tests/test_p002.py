@@ -43,3 +43,8 @@ def test_power():
     assert p002_function.power(3, 2) == 9
     assert p002_function.power(2, 0) == 1
     assert p002_function.power(0, 2) == 0
+
+def test_round_divide():
+    assert p002_function.round_divide(6, 3) == 2
+    with pytest.raises(ValueError):
+        p002_function.divide(1, 0)
